@@ -15,7 +15,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/burhankamran5/PhotoHunt.git
+git clone https://github.com/burhankamran5/Photo-Hunt-Compose.git
 Open the project in Android Studio:
 
 Open Android Studio
